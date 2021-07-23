@@ -1,0 +1,15 @@
+.deletebtn {
+  margin: 10px 0px 0px;
+}
+
+.mar-0 {
+  margin: 0px;
+}
+
+.mar-b-5 {
+  margin-bottom: 5px;
+}
+
+body {
+  background-color: rgb(205, 205, 205);
+}

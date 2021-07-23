@@ -1,0 +1,15 @@
+- Babel for new javascript features on backend
+- mvc model
+- Mongoose
+- Cloud database mongo atlas
+- Body parser
+- Materilize for css styling library
+- Class and functional components
+- Axios for requests
+- Environment variables 
+
+Working on 
+- Refactor and better design code 
+- Use array of strings in some fields in form 
+- Use redux to manage state. 
+- Make it responsive for mobile screens
